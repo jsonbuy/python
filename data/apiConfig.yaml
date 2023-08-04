@@ -1,0 +1,4 @@
+Login:
+  login:
+    url: /login
+    method: POST
